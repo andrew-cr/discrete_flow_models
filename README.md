@@ -16,6 +16,12 @@ be installed from this file e.g.
 conda env create --file environment.yml
 ```
 
+## Notebooks
+
+To get started playing around with toy discrete flow models, we have included
+some notebooks that contain masking, uniform and the general forms as described
+in the implementation details section of the paper.
+
 ## Sampling a Pre-Trained Model
 
 We provide our pre-trained text8 model at `https://www.dropbox.com/scl/fi/rno9fq8mpjs2bdctz7o53/dfm.pt?rlkey=1ge1wxv14b4a46b730hbltwkg&dl=0`
