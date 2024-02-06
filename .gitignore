@@ -10,3 +10,4 @@ __pycache__/
 input.txt
 wandb/
 *.ckpt
+!data/text8/meta.pkl
