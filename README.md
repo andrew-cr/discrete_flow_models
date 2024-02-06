@@ -28,7 +28,7 @@ We provide our pre-trained text8 model at `https://www.dropbox.com/scl/fi/rno9fq
 
 To generate samples with this model first update the config file `config/sample_text8.py`.
 - Set the `out_dir` to a directory where samples will be saved.
-- Set `ckpt_path` to point to where the pre-trained `.ckpt` model is.
+- Set `ckpt_path` to point to where the pre-trained `.pt` model is.
 - All other settings can be left at their default values.
 
 Then run the following command to generate samples:
