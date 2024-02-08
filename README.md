@@ -1,10 +1,11 @@
 
 # Discrete Flow Models
 
-This repository contains code to train and sample a discrete flow model on the
-text8 dataset.
+Repository for notebooks and the text experiment from the paper https://arxiv.org/abs/2402.04997
 
-It is built on top of https://github.com/karpathy/nanoGPT
+Code for the protein co-design experiments can be found at https://github.com/jasonkyuyim/multiflow
+
+This repository is built on top of https://github.com/karpathy/nanoGPT
 
 
 ## Install
